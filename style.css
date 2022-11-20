@@ -53,7 +53,7 @@ ul.header-navigation-row {
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
-        background-image: url(/assets/img/bg.png);
+        background-image: url(/bg.png);
         min-height: 90vh;
         display: flex;
         align-items: center;        
